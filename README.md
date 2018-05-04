@@ -1,2 +1,1 @@
-# matematica
-Mathematical problems projects
+#  Mathematical problems projects
